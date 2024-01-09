@@ -3,8 +3,8 @@
   <groupId>com.megacoffee</groupId>
   <artifactId>americano</artifactId>
   <versioning>
-    <latest>1.4.6</latest>
-    <release>1.4.6</release>
+    <latest>1.4.6.1</latest>
+    <release>1.4.6.1</release>
     <versions>
       <version>1.2.0</version>
       <version>1.2.1</version>
@@ -98,7 +98,8 @@
       <version>1.4.5.9.7</version>
       <version>1.4.5.9.8</version>
       <version>1.4.6</version>
+      <version>1.4.6.1</version>
     </versions>
-    <lastUpdated>20240105035117</lastUpdated>
+    <lastUpdated>20240109114734</lastUpdated>
   </versioning>
 </metadata>
